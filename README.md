@@ -22,6 +22,8 @@ Owners of furbabies requiring accomodation and the associated animal hotels.
 
 ## User Stories
 
+Certainly! User stories are a great way to capture functional requirements from the perspective of end-users. Here are some user stories for Pawtel, considering the target audience and main features of the app:
+
 ### User Stories for Pet Owners (Pawrents):
 
 1. **As a pet owner,**
