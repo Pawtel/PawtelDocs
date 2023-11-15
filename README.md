@@ -101,3 +101,17 @@ When authorised as hotel staff by admin and logged into their account, hotel sta
 ## Wireframes
 
 ## Tech stack:
+
+Front-End: HTML5, CSS3, ReactJS,
+
+Back-end: Node, ExpressJS
+
+Database: MongoDB, Mongoose
+
+Project Management Tools: Github Projects, Discord
+
+Utilities: Figma, Draw.io, 
+
+Code Editor: VScode
+
+Source Control: Git, Github
