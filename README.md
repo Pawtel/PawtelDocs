@@ -36,18 +36,12 @@ When authorised upon login will have access tp a dashboard that contains informa
 
 **Hotel Staff**
 
-When authorised after loging in, will be able to see information regarding all bookings in the database within the past week (7 days). 
+When authorised as hotel staff by admin and logged into their account, hotel staff will be able to see information regarding all bookings in the database within the past week (7 days). 
 
 - Total number of bookings per date
-- Daily Earnings
+- View daily earnings
 - View customer's pet information 
-
-**Hotel Admin**
-
-When authorised upon login, they will be able to:
-- Edit information on any customer and staff accounts
-- Delete any customer / staff accounts
-
+- Edit customer information
 
 ## User Stories
 
