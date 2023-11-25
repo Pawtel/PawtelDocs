@@ -12,7 +12,7 @@ The app will have the following main features:
 
 1. A dashboard for pet owners to book accommodations, fill out information about their pets, accomodation and dietary requirements.
 
-2. A dashboard for hotel admins to login and confirm client bookings, user accounts and accommodation bookings.
+2. A dashboard for hotel admins to login and manage bookings, user accounts and accommodation bookings.
 
 ## Target Audience
 
@@ -20,28 +20,28 @@ Owners of furbabies requiring accomodation and the associated animal hotels.
 
 ## Functionality / Features
 
-The app will have different sets of features for two groups of interest. 
+The app will have different sets of features for two groups of interest.
 
-All Users: The app will ask all users to complete authentication steps before access of site features can be displayed in their account dashboard. All users can login through the same login page regardless of whether an admin staff/ hotel staff is logging in and the same functionality of the app will allow them to logout of their accounts. New accounts for administrators will be a different process to hotel staff and customers and must be created by Data Manager to ensure security of account. 
+All Users: The app will ask all users to complete authentication steps before access of site features can be displayed in their account dashboard. All users can login through the same login page regardless of whether an admin staff/ hotel staff is logging in and the same functionality of the app will allow them to logout of their accounts. New accounts for administrators will be a different process to hotel staff and customers and must be created by Data Manager to ensure security of account.
 
 **Pet Owners**
 
 When authorised upon login will have access tp a dashboard that contains information about their bookings
 
-- View their individual information 
-- Previous booking history
-- Booking form to create a new booking
-- Update own booking
-- Delete own booking
+-   View their individual information
+-   Previous booking history
+-   Booking form to create a new booking
+-   Update own booking
+-   Delete own booking
 
 **Hotel Staff**
 
-When authorised as hotel staff by admin and logged into their account, hotel staff will be able to see information regarding all bookings in the database within the past week (7 days). 
+When authorised as hotel staff by admin and logged into their account, hotel staff will be able to see information regarding all bookings in the database within the past week (7 days).
 
-- Total number of bookings per date
-- View daily earnings
-- View customer's pet information 
-- Edit customer information
+-   Total number of bookings per date
+-   View daily earnings
+-   View customer's pet information
+-   Edit customer information
 
 ## User Stories
 
@@ -96,6 +96,9 @@ When authorised as hotel staff by admin and logged into their account, hotel sta
 
 ## Dataflow Diagram
 
+Dataflow diagram for the Pawtel booking process:
+![Dataflow diagram of Pawtel booking process](./images/DFD-Pawtel.png)
+
 ## Application Architecture Diagram
 
 ## Wireframes
@@ -110,7 +113,7 @@ Database: MongoDB, Mongoose
 
 Project Management Tools: Github Projects, Discord
 
-Utilities: Figma, Draw.io, 
+Utilities: Figma, Draw.io,
 
 Code Editor: VScode
 
