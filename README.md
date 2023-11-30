@@ -74,9 +74,12 @@ Owners of furbabies requiring accomodation and the associated animal hotels.
 ## Dataflow Diagram
 
 Dataflow diagram for the Pawtel booking process:
-![Dataflow diagram of Pawtel booking process](./images/DFD-Pawtel.png)
+![Dataflow diagram of Pawtel booking process](./images/Pawtel-DFD.png)
 
 ## Application Architecture Diagram
+
+Application Architecture Diagram for Pawtel website:
+![Application Architecture diagram of Pawtel Website](./images/Pawtel-AAD.png)
 
 ## Wireframes
 
