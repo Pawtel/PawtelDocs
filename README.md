@@ -45,6 +45,80 @@ When authorised as hotel staff by admin and logged into their account, hotel sta
 
 ## User Stories
 
+### Personas
+
+**Pet Owner Personas:**
+
+1. **Lucy - The Busy Professional with Max:**
+
+    - **Job Title & Industry:** Marketing Manager in a tech company.
+    - **Demographics:** 32-year-old female, resides in a city, annual income $80,000.
+    - **Background:** Lucy, a dedicated professional, values efficiency in her personal life. Max, her energetic dog, is her loyal companion.
+    - **Professional Goals:** Balancing work and personal life, finding convenient solutions.
+    - **Challenges:** Limited time for pet-related tasks.
+    - **Motivators:** Streamlined pet care services.
+    - **Sources of Information:** Prefers quick access to information via mobile apps.
+
+2. **Tim - The Cat Lover with Whiskers and Mittens:**
+
+    - **Job Title & Industry:** Graphic Designer in a creative agency.
+    - **Demographics:** 28-year-old male, lives in a suburban area, annual income $60,000.
+    - **Background:** Tim, an artistic soul, finds joy in the company of his cats, Whiskers and Mittens.
+    - **Professional Goals:** Expressing creativity through design.
+    - **Challenges:** Ensuring the comfort of his cats during their stay.
+    - **Motivators:** Knowing his cats are cared for.
+    - **Sources of Information:** Prefers detailed information, perhaps through email updates.
+
+3. **Jane - The Frequent Traveler with Sunny:**
+
+    - **Job Title & Industry:** Flight Attendant for a major airline.
+    - **Demographics:** 35-year-old female, lives in a busy urban area, annual income $90,000.
+    - **Background:** Jane, a jet-setter, often travels and values staying connected with her kitten, Sunny.
+    - **Professional Goals:** Achieving work-life balance during travels.
+    - **Challenges:** Staying connected with her pet during trips.
+    - **Motivators:** Real-time updates for peace of mind.
+    - **Sources of Information:** Mobile notifications and email updates.
+
+4. **Michael - The New Pet Owner with Luna:**
+    - **Job Title & Industry:** Software Developer in a startup.
+    - **Demographics:** 27-year-old male, resides in an apartment, annual income $70,000.
+    - **Background:** Michael, a tech enthusiast, recently adopted Luna, a playful puppy.
+    - **Professional Goals:** Advancing in the tech industry.
+    - **Challenges:** Navigating the pet care process as a new owner.
+    - **Motivators:** Hassle-free booking experiences.
+    - **Sources of Information:** Prefers intuitive and straightforward app interfaces.
+
+**Hotel Admin Personas:**
+
+1. **Monica - Responsible for Managing Accommodations:**
+
+    - **Job Title & Industry:** Operations Manager in a high-end pet hotel.
+    - **Demographics:** 40-year-old female, experienced in hospitality, annual income $100,000.
+    - **Background:** Monica is dedicated to ensuring the smooth operation of accommodations at the hotel.
+    - **Professional Goals:** Efficiently managing hotel operations.
+    - **Challenges:** Balancing accommodation allocation during peak times.
+    - **Motivators:** A dashboard for organized booking management.
+    - **Sources of Information:** Prefers real-time data and analytics.
+
+2. **Geoff - Customer Service Representative:**
+
+    - **Job Title & Industry:** Customer Service Representative in the pet hospitality sector.
+    - **Demographics:** 30-year-old male, has a background in customer service, annual income $55,000.
+    - **Background:** Geoff is passionate about providing top-notch service to pet owners.
+    - **Professional Goals:** Enhancing customer satisfaction through personalized service.
+    - **Challenges:** Addressing specific pet needs effectively.
+    - **Motivators:** Access to detailed pet information for personalized care.
+    - **Sources of Information:** Detailed customer profiles and direct communication.
+
+3. **Blake - Responsible for User Account Management:**
+    - **Job Title & Industry:** Data Manager in the pet accommodation sector.
+    - **Demographics:** 35-year-old male, experienced in data management, annual income $80,000.
+    - **Background:** Blake is committed to ensuring the security and control of user accounts.
+    - **Professional Goals:** Implementing robust user account management processes.
+    - **Challenges:** Maintaining security while managing user accounts.
+    - **Motivators:** Effective user account control for a trustworthy platform.
+    - **Sources of Information:** Adheres to industry best practices for data security.
+
 ### User Stories for Pet Owners (Pawrents):
 
 1. **As a pet owner,**
