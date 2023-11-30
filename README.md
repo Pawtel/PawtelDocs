@@ -171,12 +171,12 @@ When authorised as hotel staff by admin and logged into their account, hotel sta
 ## Dataflow Diagram
 
 Dataflow diagram for the Pawtel booking process:
-![Dataflow diagram of Pawtel booking process](./images/Pawtel-DFD.png)
+![Dataflow diagram of Pawtel booking process](./images/Pawtel_DFD.png)
 
 ## Application Architecture Diagram
 
 Application Architecture Diagram for Pawtel website:
-![Application Architecture diagram of Pawtel Website](./images/Pawtel-AAD.png)
+![Application Architecture diagram of Pawtel Website](./images/Pawtel_AAD.png)
 
 ## Wireframes
 
