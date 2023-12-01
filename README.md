@@ -166,6 +166,12 @@ When authorised as hotel staff by admin and logged into their account, hotel sta
 
 ## Sprint Planning
 
+At the start of the project, we have decided to create a git projects board with tasks required to complete the planning part A of the project and forsee tasks to complete in the coming days. Each task was put as a card on github projects and a list of tasks to complete was written on the cards. We assigned each member according to their capabilities and skills to share the workload and complete planning. 
+
+Each of us are responsible for completing set tasks on github projets and we will continue onto adding more tasks as we forsee them to be completed or solved.
+
+We will be working remotely and alone, communicating mostly via discord chat and discord calls. 
+
 ## Workflow
 
 ## Dataflow Diagram
