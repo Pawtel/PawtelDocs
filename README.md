@@ -183,7 +183,6 @@ This is the look of the initial board upon creating cards and listing tasks to c
 and an insight to the checklist of a card:
 ![Card Checklist](./images/github_board_screenshots/R1%20-%20Description%20of%20Application%20on%20READMe.png)
 
-
 ## Workflow
 
 ## Dataflow Diagram
