@@ -172,6 +172,14 @@ Each of us are responsible for completing set tasks on github projets and we wil
 
 We will be working remotely and alone, communicating mostly via discord chat and discord calls. 
 
+We have decided to build our apps within 5 sprints:
+
+1. Set up front and back end frameworks
+2. Create login functionality
+3. Create & Read functionality for parent and hotel staff
+4. Create Delete and Update functionalities
+5. Daily bookings and total balance on staff dashboard
+6. Further styling of application to enhance look 
 
 ## Screenshots of Github Projects Board
 
@@ -184,6 +192,16 @@ and an insight to the checklist of a card:
 ![Card Checklist](./images/github_board_screenshots/R1%20-%20Description%20of%20Application%20on%20READMe.png)
 
 ## Workflow
+
+We will be working using the Github organisation across 3 repos: Pawtel docs, Pawtel Client side, consisting of the front-end and react components, and finally the back-end Server side. 
+
+The version control we will utilise is the forking workflow, where we feature different branches off sections we're working on within our local development branch and make pull requests to merge into the main repo's development branch.
+Each pull request will be checked by the other individual within the group upon approval and merging into the main branch. 
+This will allow for the project to check each other's work before merging into the main branch, allow the project to maintain an agile working flow and allow addition of further features within the appliation for future improvements. 
+
+We will incorporate CI/CD (continuous integration and continous delivery/deployment) by setting up a staging pipeline utilising with Heroku and Netlify. Pull requests which have been approved will be viewable in the staging version of the app and merges onto the main branch will be deployed onto production. This will allow us to see the altered versions live and test the application within different stages automatically by developers and hotel staff for futher feedback.
+
+Testing of the application will be completed on client and server side. We will perform automated unit tests for the server side using TDD method before pushing to the main code. The deployed server and client side will be manually tested by this team and automated integration tested with cypress once they are linked. Manual and automated tests will be recorded on the production version of the application for documentation. 
 
 ## Dataflow Diagram
 
