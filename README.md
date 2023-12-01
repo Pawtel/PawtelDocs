@@ -172,6 +172,18 @@ Each of us are responsible for completing set tasks on github projets and we wil
 
 We will be working remotely and alone, communicating mostly via discord chat and discord calls. 
 
+
+## Screenshots of Github Projects Board
+
+The screenshots of our github projects board can be found in the Github-Project-Screenshots directory located in this repo. You can also view the Github Project Board live using the following link: https://github.com/orgs/Pawtel/projects/1/views/1
+
+This is the look of the initial board upon creating cards and listing tasks to complete the action cards.
+![Initial Github Project](./images/github_board_screenshots/Initial%20Stage%20of%20Planning%20Board.png)
+
+and an insight to the checklist of a card:
+![Card Checklist](./images/github_board_screenshots/R1%20-%20Description%20of%20Application%20on%20READMe.png)
+
+
 ## Workflow
 
 ## Dataflow Diagram
