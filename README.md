@@ -172,6 +172,7 @@ Each of us are responsible for completing set tasks on github projets and we wil
 
 We will be working remotely and alone, communicating mostly via discord chat and discord calls. 
 
+
 ## Screenshots of Github Projects Board
 
 The screenshots of our github projects board can be found in the Github-Project-Screenshots directory located in this repo. You can also view the Github Project Board live using the following link: https://github.com/orgs/Pawtel/projects/1/views/1
