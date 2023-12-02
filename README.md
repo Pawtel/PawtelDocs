@@ -40,18 +40,19 @@ When authorised upon login will have access tp a dashboard that contains informa
 
 -   View their individual information
 -   Previous booking history
--   Booking form to create a new booking
+-   Create a new booking
+-   Update own details & pet details
 -   Update own booking
 -   Delete own booking
 
 **Hotel Staff**
 
-When authorised as hotel staff by admin and logged into their account, hotel staff will be able to see information regarding all bookings in the database within the past week (7 days).
+When authorised as hotel staff by admin and logged into their account, hotel staff will be able to see information regarding all bookings in the database.
 
 -   Total number of bookings per date
 -   View daily earnings
 -   View customer's pet information
--   Edit customer information
+-   View customer information
 
 ## User Stories
 
