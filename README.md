@@ -215,6 +215,16 @@ Application Architecture Diagram for Pawtel website:
 
 ## Wireframes
 
+Homepage: ![Homepage](./images/wireframe/homepage.png)
+
+About page: ![About](./images/wireframe/about_page.png)
+
+Contact page: ![Contact](./images/wireframe/contact_page.png)
+
+Login page: ![Login](./images/wireframe/login_page.png)
+
+Booking page: ![Booking](./images/wireframe/booking_page.png)
+
 ## Tech stack:
 
 Front-End: HTML5, CSS3, ReactJS,
