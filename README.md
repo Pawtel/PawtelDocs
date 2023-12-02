@@ -4,8 +4,11 @@ Pawtel: MERN Full-Stack App Assignment
 
 ### Links:
 
-[Wireframes](https://www.figma.com/file/n85eBLBMLiT896YcBo5TIf/Pawtel-Basic-Wireframe?type=design&node-id=0%3A1&mode=design&t=1FGMzm9wyB74M4KK-1)
-[Dataflow Diagram](https://drive.google.com/file/d/1v7GH27Z7NaY5bu_eUweMEEYiAXQYtE4n/view?usp=sharing)
+-   [Wireframes](https://www.figma.com/file/n85eBLBMLiT896YcBo5TIf/Pawtel-Basic-Wireframe?type=design&node-id=0%3A1&mode=design&t=1FGMzm9wyB74M4KK-1)
+
+-   [Dataflow Diagram](https://drive.google.com/file/d/1v7GH27Z7NaY5bu_eUweMEEYiAXQYtE4n/view?usp=sharing)
+
+-   [Application Architecture Diagram](https://drive.google.com/file/d/146RkoudhIIPqNRsoYjDDlnqTg4_FvBED/view?usp=sharing)
 
 ## Purpose
 
@@ -182,8 +185,10 @@ Dataflow diagram for the Pawtel booking process:
 
 ## Application Architecture Diagram
 
+[Application Architecture Diagram Link](https://drive.google.com/file/d/146RkoudhIIPqNRsoYjDDlnqTg4_FvBED/view?usp=sharing)
+
 Application Architecture Diagram for Pawtel website:
-![Application Architecture diagram of Pawtel Website](./images/Pawtel_AAD.png)
+![Application Architecture diagram of Pawtel Website](./images/AAD_final.png)
 
 ## Wireframes
 
