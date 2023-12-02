@@ -228,7 +228,7 @@ Dataflow diagram for the Pawtel booking process:
 [Application Architecture Diagram Link](https://drive.google.com/file/d/146RkoudhIIPqNRsoYjDDlnqTg4_FvBED/view?usp=sharing)
 
 Application Architecture Diagram for Pawtel website:
-![Application Architecture diagram of Pawtel Website](./images/AAD_final.png)
+![Application Architecture diagram of Pawtel Website](./images/App%20Architecture%20Diagram%20-%20completed%20&%20final.png)
 
 ## Wireframes
 
