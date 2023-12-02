@@ -215,7 +215,7 @@ This will allow for the project to check each other's work before merging into t
 
 We will incorporate CI/CD (continuous integration and continous delivery/deployment) by setting up a staging pipeline utilising with Heroku and Netlify. Pull requests which have been approved will be viewable in the staging version of the app and merges onto the main branch will be deployed onto production. This will allow us to see the altered versions live and test the application within different stages automatically by developers and hotel staff for futher feedback.
 
-Testing of the application will be completed on client and server side. We will perform automated unit tests for the server side using TDD method before pushing to the main code. The deployed server and client side will be manually tested by this team and automated integration tested with cypress once they are linked. Manual and automated tests will be recorded on the production version of the application for documentation.
+Testing of the application will be completed on client and server side. We will perform automated unit tests for the server side using TDD method before pushing to the main code. The deployed server and client side will be manually tested by this team and automated integration tested with jest once they are linked. Manual and automated tests will be recorded on the production version of the application for documentation.
 
 ## Dataflow Diagram
 
