@@ -2,6 +2,11 @@
 
 Pawtel: MERN Full-Stack App Assignment
 
+### Links:
+
+[Wireframes](https://www.figma.com/file/n85eBLBMLiT896YcBo5TIf/Pawtel-Basic-Wireframe?type=design&node-id=0%3A1&mode=design&t=1FGMzm9wyB74M4KK-1)
+[Dataflow Diagram](https://drive.google.com/file/d/1v7GH27Z7NaY5bu_eUweMEEYiAXQYtE4n/view?usp=sharing)
+
 ## Purpose
 
 Pawtel is a comprehensive full-stack application designed to streamline the process of booking accommodations for pets in a specialised animal hotels. This user-friendly platform aims to provide a seamless experience for scheduling and managing stays for their beloved animals, simplifying the often cumbersome process of finding suitable lodgings of leaving pets with friends, family or close neighbours. We have one more solution to pawrents, you can now leave it all to the professionals for their care, accomodations, and bookings!
@@ -205,6 +210,8 @@ Testing of the application will be completed on client and server side. We will 
 
 ## Dataflow Diagram
 
+[Dataflow Diagram Link](https://drive.google.com/file/d/1v7GH27Z7NaY5bu_eUweMEEYiAXQYtE4n/view?usp=sharing)
+
 Dataflow diagram for the Pawtel booking process:
 ![Dataflow diagram of Pawtel booking process](./images/Pawtel_DFD.png)
 
@@ -214,6 +221,8 @@ Application Architecture Diagram for Pawtel website:
 ![Application Architecture diagram of Pawtel Website](./images/Pawtel_AAD.png)
 
 ## Wireframes
+
+[Figma Link](https://www.figma.com/file/n85eBLBMLiT896YcBo5TIf/Pawtel-Basic-Wireframe?type=design&node-id=0%3A1&mode=design&t=1FGMzm9wyB74M4KK-1)
 
 Homepage: ![Homepage](./images/wireframe/homepage.png)
 
