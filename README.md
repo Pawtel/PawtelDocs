@@ -10,6 +10,8 @@ Pawtel: MERN Full-Stack App Assignment
 
 -   [Application Architecture Diagram](https://drive.google.com/file/d/146RkoudhIIPqNRsoYjDDlnqTg4_FvBED/view?usp=sharing)
 
+-   [Github Projects](https://github.com/orgs/Pawtel/projects/1/views/1)
+
 ## Purpose
 
 Pawtel is a comprehensive full-stack application designed to streamline the process of booking accommodations for pets in a specialised animal hotels. This user-friendly platform aims to provide a seamless experience for scheduling and managing stays for their beloved animals, simplifying the often cumbersome process of finding suitable lodgings of leaving pets with friends, family or close neighbours. We have one more solution to pawrents, you can now leave it all to the professionals for their care, accomodations, and bookings!
@@ -174,11 +176,11 @@ When authorised as hotel staff by admin and logged into their account, hotel sta
 
 ## Sprint Planning
 
-At the start of the project, we have decided to create a git projects board with tasks required to complete the planning part A of the project and forsee tasks to complete in the coming days. Each task was put as a card on github projects and a list of tasks to complete was written on the cards. We assigned each member according to their capabilities and skills to share the workload and complete planning. 
+At the start of the project, we have decided to create a git projects board with tasks required to complete the planning part A of the project and forsee tasks to complete in the coming days. Each task was put as a card on github projects and a list of tasks to complete was written on the cards. We assigned each member according to their capabilities and skills to share the workload and complete planning.
 
 Each of us are responsible for completing set tasks on github projets and we will continue onto adding more tasks as we forsee them to be completed or solved.
 
-We will be working remotely and alone, communicating mostly via discord chat and discord calls. 
+We will be working remotely and alone, communicating mostly via discord chat and discord calls.
 
 We have decided to build our apps within 5 sprints:
 
@@ -187,11 +189,11 @@ We have decided to build our apps within 5 sprints:
 3. Create & Read functionality for parent and hotel staff
 4. Create Delete and Update functionalities
 5. Daily bookings and total balance on staff dashboard
-6. Further styling of application to enhance look 
+6. Further styling of application to enhance look
 
 ## Screenshots of Github Projects Board
 
-The screenshots of our github projects board can be found in the github_project_screenshots folder located in this repo. You can also view the Github Project Board live and in its final state using the following link: https://github.com/orgs/Pawtel/projects/1/views/1
+The screenshots of our github projects board can be found in the github_project_screenshots folder located in this repo. You can also view the Github Project Board live and in its final state using the following [link](https://github.com/orgs/Pawtel/projects/1/views/1)
 
 This is the look of the initial board upon creating cards and listing tasks to complete the action cards.
 ![Initial Github Project](./images/github_board_screenshots/Initial%20Stage%20of%20Planning%20Board.png)
@@ -199,17 +201,20 @@ This is the look of the initial board upon creating cards and listing tasks to c
 and an insight to the checklist of a card:
 ![Card Checklist](./images/github_board_screenshots/R1%20-%20Description%20of%20Application%20on%20READMe.png)
 
+We assigned ourselves tasks (In Progress) and as we completed them we checked them off (Done).
+![Assigned Tasks](./images/projects.png)
+
 ## Workflow
 
-We will be working using the Github organisation across 3 repos: Pawtel docs, Pawtel Client side, consisting of the front-end and react components, and finally the back-end Server side. 
+We will be working using the Github organisation across 3 repos: Pawtel docs, Pawtel Client side, consisting of the front-end and react components, and finally the back-end Server side.
 
 The version control we will utilise is the forking workflow, where we feature different branches off sections we're working on within our local development branch and make pull requests to merge into the main repo's development branch.
-Each pull request will be checked by the other individual within the group upon approval and merging into the main branch. 
-This will allow for the project to check each other's work before merging into the main branch, allow the project to maintain an agile working flow and allow addition of further features within the appliation for future improvements. 
+Each pull request will be checked by the other individual within the group upon approval and merging into the main branch.
+This will allow for the project to check each other's work before merging into the main branch, allow the project to maintain an agile working flow and allow addition of further features within the appliation for future improvements.
 
 We will incorporate CI/CD (continuous integration and continous delivery/deployment) by setting up a staging pipeline utilising with Heroku and Netlify. Pull requests which have been approved will be viewable in the staging version of the app and merges onto the main branch will be deployed onto production. This will allow us to see the altered versions live and test the application within different stages automatically by developers and hotel staff for futher feedback.
 
-Testing of the application will be completed on client and server side. We will perform automated unit tests for the server side using TDD method before pushing to the main code. The deployed server and client side will be manually tested by this team and automated integration tested with cypress once they are linked. Manual and automated tests will be recorded on the production version of the application for documentation. 
+Testing of the application will be completed on client and server side. We will perform automated unit tests for the server side using TDD method before pushing to the main code. The deployed server and client side will be manually tested by this team and automated integration tested with cypress once they are linked. Manual and automated tests will be recorded on the production version of the application for documentation.
 
 ## Dataflow Diagram
 
